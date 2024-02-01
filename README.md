@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misterdohl
 - 👀 I’m interested in automation (Ansible, Terraform, IaC)
-- 🌱 I’m currently learning k8s
+- 🌱 I’m currently learning k8s and crossplane
 
 <!---
 misterdohl/misterdohl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
